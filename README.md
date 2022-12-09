@@ -4,7 +4,7 @@
 
 • I'm Jefferson Souto, Meteorologist, currently holding the position of PhD student in Environmental Sciences.
 
-• In my spare time I like to study new technologies, statistic and play the gaming table, I'm also an avid reader.
+• In my spare time I like to study new technologies, statistic and play board games, I'm also an avid reader.
 
 ```python
 from dataclasses import dataclass
