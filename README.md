@@ -4,7 +4,7 @@
 
 • I'm Jefferson Souto, currently holding the position of PhD student in Environmental Sciences. I'm well versed with Python, SQL and R.
 
-• A data enthusiast, self-taught programmer, passionate about data subjects and I also Code Java,JavaScript and more!
+• A data enthusiast, self-taught programmer, passionate about data subjects and I also Code Java, JavaScript and more!
 
 • In my spare time I like to study new technologies, statistic and play board games, I'm also an avid reader.
 
